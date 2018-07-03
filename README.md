@@ -1,6 +1,8 @@
 # vue-cli
 
-> A Vue.js project
+> A Vue.js project 
+
+#Using components, using slots, passing data between components, binding styles, $emit events
 
 ## Build Setup
 
