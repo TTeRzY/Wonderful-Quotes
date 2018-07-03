@@ -1,4 +1,4 @@
-# vue-cli
+# Nice and simple App
 
 > Using components, using slots, passing data between components, binding styles, $emit events
 
